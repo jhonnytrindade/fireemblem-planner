@@ -1,0 +1,20 @@
+{
+    "units": [
+        {
+            "name": "Byleth"
+        },
+		{
+            "name": "Edelgard"
+        }
+    ],
+	"chapters": [
+        {
+            "name": "Prologue"
+        }
+    ],
+	"items": [
+        {
+            "name": "Angelica Seeds"
+        }
+    ]
+}
